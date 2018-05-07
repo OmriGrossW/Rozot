@@ -1,0 +1,8 @@
+prefix=/users/studs/bsc/2016/sdanie/catkin_ws/devel
+
+Name: dynamixel_sdk
+Description: Description of dynamixel_sdk
+Version: 3.4.1
+Cflags: -I/users/studs/bsc/2016/sdanie/catkin_ws/src/robotican/dynamixel_sdk/include
+Libs: -L/users/studs/bsc/2016/sdanie/catkin_ws/devel/lib -ldynamixel_sdk
+Requires: 

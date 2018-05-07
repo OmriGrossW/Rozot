@@ -1,0 +1,17 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~H_min" : \b [int] H min min: 0, default: 3, max: 180
+- \b "~H_max" : \b [int] H max min: 0, default: 160, max: 180
+- \b "~S_min" : \b [int] S min min: 0, default: 70, max: 255
+- \b "~S_max" : \b [int] S max min: 0, default: 255, max: 255
+- \b "~V_min" : \b [int] V min min: 0, default: 10, max: 255
+- \b "~V_max" : \b [int] V max min: 0, default: 255, max: 255
+- \b "~A_min" : \b [int] A min min: 0, default: 200, max: 50000
+- \b "~A_max" : \b [int] A max min: 0, default: 50000, max: 50000
+- \b "~gaussian_ksize" : \b [int] Gaussian k size min: 0, default: 0, max: 255
+- \b "~gaussian_sigma" : \b [int] Qaussian sigma min: 0, default: 0, max: 255
+- \b "~morph_size" : \b [int] Morph size min: 0, default: 0, max: 50
+- \b "~invert_Hue" : \b [bool] Invert Hue min: False, default: True, max: True
+
