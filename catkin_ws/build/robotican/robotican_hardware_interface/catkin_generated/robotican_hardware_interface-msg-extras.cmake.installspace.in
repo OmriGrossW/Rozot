@@ -1,2 +1,0 @@
-set(robotican_hardware_interface_MESSAGE_FILES "msg/JointEnable.msg;msg/ChainEnable.msg;msg/JointLimits.msg;msg/ChainLimits.msg;msg/imuClib.msg")
-set(robotican_hardware_interface_SERVICE_FILES "srv/setImuClib.srv")

@@ -1,8 +1,0 @@
-prefix=/users/studs/bsc/2016/sdanie/catkin_ws/devel
-
-Name: robotican_lizi
-Description: Description of robotican_lizi
-Version: 0.0.0
-Cflags: 
-Libs: -L/users/studs/bsc/2016/sdanie/catkin_ws/devel/lib 
-Requires: 
