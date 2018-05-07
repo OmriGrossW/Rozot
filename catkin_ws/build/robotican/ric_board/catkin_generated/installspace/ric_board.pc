@@ -1,0 +1,8 @@
+prefix=/users/studs/bsc/2016/sdanie/catkin_ws/install
+
+Name: ric_board
+Description: Description of ric_board
+Version: 1.0.0
+Cflags: -I/users/studs/bsc/2016/sdanie/catkin_ws/install/include
+Libs: -L/users/studs/bsc/2016/sdanie/catkin_ws/install/lib 
+Requires: roscpp rospy std_msgs sensor_msgs geometry_msgs message_runtime

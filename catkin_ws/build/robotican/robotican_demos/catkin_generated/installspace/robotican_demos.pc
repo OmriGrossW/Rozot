@@ -1,0 +1,8 @@
+prefix=/users/studs/bsc/2016/sdanie/catkin_ws/install
+
+Name: robotican_demos
+Description: Description of robotican_demos
+Version: 0.0.0
+Cflags: 
+Libs: -L/users/studs/bsc/2016/sdanie/catkin_ws/install/lib 
+Requires: roscpp rospy robotican_common std_msgs moveit_core moveit_ros_planning moveit_ros_planning_interface

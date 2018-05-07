@@ -1,0 +1,8 @@
+prefix=/users/studs/bsc/2016/sdanie/catkin_ws/devel
+
+Name: robotican_controllers
+Description: Description of robotican_controllers
+Version: 0.0.0
+Cflags: -I/users/studs/bsc/2016/sdanie/catkin_ws/src/robotican/robotican_controllers/include
+Libs: -L/users/studs/bsc/2016/sdanie/catkin_ws/devel/lib -lrobotican_controllers
+Requires: actionlib cmake_modules gripper_action_controller joint_trajectory_controller control_msgs controller_interface hardware_interface realtime_tools

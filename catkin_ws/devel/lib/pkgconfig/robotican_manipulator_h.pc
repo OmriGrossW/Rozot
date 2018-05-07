@@ -1,0 +1,8 @@
+prefix=/users/studs/bsc/2016/sdanie/catkin_ws/devel
+
+Name: robotican_manipulator_h
+Description: Description of robotican_manipulator_h
+Version: 0.0.0
+Cflags: 
+Libs: -L/users/studs/bsc/2016/sdanie/catkin_ws/devel/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions robotican_hardware_interface std_msgs actionlib control_msgs dynamixel_msgs control_toolbox hardware_interface controller_manager serial

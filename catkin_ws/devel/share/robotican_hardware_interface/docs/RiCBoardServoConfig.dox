@@ -1,0 +1,9 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~A" : \b [double] Servo A parameter min: -3000.0, default: -301.5567343, max: 3000.0
+- \b "~B" : \b [double] Servo B parameter min: -3000.0, default: 1450.0, max: 3000.0
+- \b "~max" : \b [double] Servo B parameter min: 0.0, default: 1.57, max: 3.14
+- \b "~min" : \b [double] Servo B parameter min: -3.14, default: -1.57, max: 0.0
+

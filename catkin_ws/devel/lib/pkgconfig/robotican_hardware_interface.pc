@@ -1,0 +1,8 @@
+prefix=/users/studs/bsc/2016/sdanie/catkin_ws/devel
+
+Name: robotican_hardware_interface
+Description: Description of robotican_hardware_interface
+Version: 0.0.0
+Cflags: -I/users/studs/bsc/2016/sdanie/catkin_ws/devel/include -I/users/studs/bsc/2016/sdanie/catkin_ws/src/robotican/robotican_hardware_interface/include
+Libs: -L/users/studs/bsc/2016/sdanie/catkin_ws/devel/lib -lrobotican_hardware_interface -lrobotican_hardware_interface_sim
+Requires: cmake_modules realtime_tools control_msgs roscpp controller_manager pluginlib transmission_interface urdf dynamic_reconfigure tf gazebo_ros_control serial message_runtime dynamic_reconfigure
